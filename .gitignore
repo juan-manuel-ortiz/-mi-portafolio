@@ -10,3 +10,9 @@ node_modules/
 # Archivos del sistema operativo
 .DS_Store
 Thumbs.db
+
+# Archivos locales
+config.local.json
+
+# Respaldos locales
+respaldos/
