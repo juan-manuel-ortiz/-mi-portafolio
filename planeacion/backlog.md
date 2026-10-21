@@ -25,7 +25,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que estoy en la parte de arriba, cuando hago clic en "Proyectos", entonces la página baja hasta la sección de proyectos.
 - [ ] Dado que hice scroll hasta el final, cuando miro la parte superior de la pantalla, entonces el menú sigue visible.
 
-**Issue:** #
+**Issue:** #1
 
 ---
 
@@ -41,7 +41,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que estoy en la sección "Habilidades", cuando la leo, entonces las habilidades están agrupadas en "Frontend" y "Herramientas".
 - [ ] Dado que estoy en el menú, cuando hago clic en "Habilidades", entonces la página baja hasta esa sección.
 
-**Issue:** #
+**Issue:** #2
 
 ---
 
@@ -58,7 +58,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 -[ ] Dado que estoy en el pie de página, cuando observo los enlaces, entonces veo enlaces a las redes del aprendiz.
 -[ ] Dado que hago clic en uno de los enlaces del pie de página, cuando se abre el enlace, entonces se muestra en una pestaña nueva.
 
-**Issue:** #
+**Issue:** #3
 
 ---
 
@@ -76,7 +76,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que estoy en una tarjeta de proyecto, cuando hago clic en "Ver código", entonces se abre el repositorio correspondiente en GitHub.
 - [ ] Dado que hago clic en "Ver código", cuando se abre GitHub, entonces el repositorio aparece en una pestaña nueva.
 
-**Issue:** #
+**Issue:** #4
 
 ---
 
@@ -94,7 +94,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 -[ ] Dado que uso el portafolio desde un celular, cuando recorro la página, entonces puedo leer el contenido sin hacer zoom.
 -[ ] Dado que uso una pantalla pequeña, cuando navego por el portafolio, entonces no aparece scroll horizontal.
 
-**Issue:** #
+**Issue:** #5
 
 ---
 
