@@ -54,7 +54,9 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 **Criterios de aceptación:**
 
 <!-- TODO: escribe mínimo 3 criterios con el formato Dado / cuando / entonces -->
-- [ ] TODO
+-[ ] Dado que estoy en cualquier sección del portafolio, cuando llego al final de la página, entonces veo un pie de página con el año 2026 y el nombre del aprendiz.
+-[ ] Dado que estoy en el pie de página, cuando observo los enlaces, entonces veo enlaces a las redes del aprendiz.
+-[ ] Dado que hago clic en uno de los enlaces del pie de página, cuando se abre el enlace, entonces se muestra en una pestaña nueva.
 
 **Issue:** #
 
@@ -70,7 +72,9 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 <!-- TODO: escribe mínimo 3 criterios con el formato Dado / cuando / entonces.
      Pista: ¿el enlace abre en una pestaña nueva? ¿Qué texto muestra? -->
-- [ ] TODO
+- [ ] Dado que estoy en la sección de proyectos, cuando observo una tarjeta, entonces veo un enlace con el texto "Ver código".
+- [ ] Dado que estoy en una tarjeta de proyecto, cuando hago clic en "Ver código", entonces se abre el repositorio correspondiente en GitHub.
+- [ ] Dado que hago clic en "Ver código", cuando se abre GitHub, entonces el repositorio aparece en una pestaña nueva.
 
 **Issue:** #
 
@@ -86,7 +90,9 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 <!-- TODO: escribe mínimo 3 criterios con el formato Dado / cuando / entonces.
      Pista: ¿qué pasa con las 3 tarjetas en una pantalla de menos de 600 px? -->
-- [ ] TODO
+-[ ] Dado que abro el portafolio en una pantalla menor a 600 px, cuando veo la sección de proyectos, entonces las tarjetas se muestran en una sola columna.
+-[ ] Dado que uso el portafolio desde un celular, cuando recorro la página, entonces puedo leer el contenido sin hacer zoom.
+-[ ] Dado que uso una pantalla pequeña, cuando navego por el portafolio, entonces no aparece scroll horizontal.
 
 **Issue:** #
 
