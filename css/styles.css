@@ -70,3 +70,14 @@ html {
     padding: 2rem 5%;
   }
 }
+
+.volver-arriba {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: .6rem 1rem;
+  background: var(--acento);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+}

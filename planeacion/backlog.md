@@ -114,4 +114,18 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 - [ ] TODO
 
+**Issue:** #6
+
+## HU-06 · Botón volver arriba
+
+**Historia:** Como visitante del portafolio, quiero un botón para volver rápidamente al inicio de la página, para no tener que desplazarme manualmente después de llegar al final.
+
+**Etiquetas:** historia, frontend · **Estimación:** S
+
+**Criterios de aceptación:**
+
+- [ ] Dado que estoy al final del portafolio, cuando observo la página, entonces veo un botón con el texto "Volver arriba".
+- [ ] Dado que estoy al final del portafolio, cuando hago clic en "Volver arriba", entonces la página regresa al inicio.
+- [ ] Dado que uso el botón "Volver arriba", cuando regreso al inicio, entonces puedo seguir usando el menú de navegación normalmente.
+
 **Issue:** #
