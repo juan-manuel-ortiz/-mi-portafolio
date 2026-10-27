@@ -55,3 +55,18 @@ a { color: var(--acento); }
 html {
   scroll-behavior: smooth;
 }
+
+@media (max-width: 600px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .menu {
+    flex-wrap: wrap;
+    gap: .5rem 1rem;
+  }
+
+  .seccion {
+    padding: 2rem 5%;
+  }
+}
