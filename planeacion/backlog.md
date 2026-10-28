@@ -128,4 +128,4 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que estoy al final del portafolio, cuando hago clic en "Volver arriba", entonces la página regresa al inicio.
 - [ ] Dado que uso el botón "Volver arriba", cuando regreso al inicio, entonces puedo seguir usando el menú de navegación normalmente.
 
-**Issue:** #
+**Issue:** #6
