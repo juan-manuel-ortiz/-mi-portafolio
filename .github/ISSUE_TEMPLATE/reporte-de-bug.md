@@ -6,9 +6,9 @@ labels: bug
 assignees: ''
 ---
 
-## Descripción del problema
+## Descripcion del problema
 
-Escribe cuál es el error que encontraste.
+Escribe cual es el error que encontraste.
 
 ## Pasos para reproducir
 
@@ -16,11 +16,11 @@ Escribe cuál es el error que encontraste.
 
 ## Resultado esperado
 
-Escribe qué debería pasar normalmente.
+Escribe que deberia pasar normalmente.
 
 ## Resultado actual
 
-Escribe qué está pasando actualmente.
+Escribe que esta pasando actualmente.
 
 ## Evidencia (captura o enlace)
 
